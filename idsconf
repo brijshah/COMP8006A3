@@ -1,0 +1,7 @@
+[ssh]
+keyword = Failed password
+file = /var/log/secure
+
+[ftp]
+keyword = FAIL LOGIN
+file = /var/log/vsftpd.log
