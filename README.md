@@ -1,8 +1,7 @@
 # COMP8006A3
-IDS
+## Python IDS  
+A simple monitor application that detects password guessing attempts against a service (such as SSH) and blocks the IP using Netfilter
 
-Authors:
-
-Brij Shah
-
+Authors:  
+Brij Shah  
 David Wang(Hakus)
